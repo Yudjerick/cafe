@@ -12,7 +12,7 @@ public class Drop extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		img = new Texture("badlogic.jpg");
+		img = new Texture("coffee_sheet.png");
 	}
 
 	@Override
